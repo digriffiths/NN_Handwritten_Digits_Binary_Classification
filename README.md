@@ -1,4 +1,4 @@
-## Neural Network Development for Recognizing Handwritten Digits Binary Classification
+## Neural Network for Recognizing Handwritten Digits - Binary Classification
 
 ## Overview
 
